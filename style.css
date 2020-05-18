@@ -1,0 +1,39 @@
+h1 {
+  border-style: solid;
+  background-color: pink;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 5px;
+}
+
+#startbutton {
+  background-color: pink;
+  border-radius: 10px;
+}
+
+#timer {
+  padding: 10px;
+}
+
+/* .hidden {
+  display: none;
+} */
+
+span {
+  color: pink;
+}
+
+body {
+  border-radius: 10px;
+
+  text-align: center;
+
+  background-color: whitesmoke;
+
+  border-style: solid;
+
+  border-color: pink;
+
+  padding-bottom: 20px;
+}
